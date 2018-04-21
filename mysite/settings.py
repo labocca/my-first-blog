@@ -25,7 +25,7 @@ SECRET_KEY = '^+#w@+df&j05ah!4#)-a++6-q+*42_y+s&_c^(_7xkge)r+^cm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'labocca.pythonanywhere.com']
 
 
 # Application definition
